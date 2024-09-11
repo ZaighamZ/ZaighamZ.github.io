@@ -2,11 +2,10 @@
 layout: homepage
 ---
 
-### About Me
 
 I am a Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates.
 
-## Previous Work Experiences
+### Previous Work Experiences
 
 - **Research Fellow** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
 - **Visiting Researcher** ETH Zurich Switzerland. (Oct 2021 - Dec 2021)
