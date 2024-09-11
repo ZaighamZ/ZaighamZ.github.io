@@ -4,10 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a MSc Student Graduate in Computer Vision at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, UAE.  Currently, I am affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} under [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"} as a Research Assistant.
-<!-- and [Dr. Fahd Khan](https://scholar.google.com/citations?user=zvaeYnUAAAAJ&hl=en){:target="_blank"}. -->
+I am a Research Fellow working in the Computer Vision Department at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates.  Currently, I am affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} working with [Dr. Karthik Nandakumar](https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en){:target="_blank"}.
 
-I received my bachelor's degree in Electrical Engineering from [King Saud University(KSU)](https://ksu.edu.sa/en/) in 2020, and my Master’s degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/) in 2023. My current research interests lie in Video Anomaly Detection (VAD) with applications in Renewable Energy. 
+Previously, I worked as a postdoctoral researcher at the Electronics and Telecommunications Research Institute. I am a student researcher affiliated with the Intelligent Robots Research Section, Electronics and Telecommunications Research Institute (ETRI), South Korea, and a Ph.D. candidate in CVML Lab, University of Science and Technology (UST), South Korea, advised by Prof. Seung-Ik Lee. 
+I received my Bachelor’s degree in Computer and Information Sciences from PIEAS in 2012, and Master’s degree in Electronics and Computer Engineering from Chonnam National University, Korea. Partly, during my Bachelor’s, I was affiliated with the Instrumentation, Control and Computers Complex (ICCC) to conduct thesis related research under the supervision of Dr. Faisal Zafar, co-advised by Dr. Javed Khurshid. During my Masters, I was affiliated with the IC&DSP Lab (later renamed to Intelligent Electronics Lab), advised by Prof. Jin Young Kim.
 
 ## Research Interests
 
