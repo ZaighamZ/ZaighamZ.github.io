@@ -10,6 +10,8 @@ I am a Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/
 
 - **Research Fellow** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
 - **Visiting Researcher** ETH Zurich Switzerland. (Oct 2021 - Dec 2021)
+- **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
+- **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
 
 Previously, I worked as a postdoctoral researcher at the Electronics and Telecommunications Research Institute. I am a student researcher affiliated with the Intelligent Robots Research Section, Electronics and Telecommunications Research Institute (ETRI), South Korea, and a Ph.D. candidate in CVML Lab, University of Science and Technology (UST), South Korea, advised by Prof. Seung-Ik Lee. 
 I received my Bachelor’s degree in Computer and Information Sciences from PIEAS in 2012, and Master’s degree in Electronics and Computer Engineering from Chonnam National University, Korea. Partly, during my Bachelor’s, I was affiliated with the Instrumentation, Control and Computers Complex (ICCC) to conduct thesis related research under the supervision of Dr. Faisal Zafar, co-advised by Dr. Javed Khurshid. During my Masters, I was affiliated with the IC&DSP Lab (later renamed to Intelligent Electronics Lab), advised by Prof. Jin Young Kim.
