@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 
-![Book logo](/least-github-pages/assets/logo.png)
+![Book logo](/assets/img/zaighampic.jpg)
 
 
 I am a Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates.
