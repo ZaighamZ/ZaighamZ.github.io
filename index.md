@@ -23,7 +23,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 ### Education
 <img src="/assets/img/logos/ust_logo.jpg" width="50"> | 
 <img src="/assets/img/logos/Chonnam_uni_logo.gif" width="50"> |
-<img src="/assets/img/logos/pieas_logo.jfif" height="50">
+<img src="/assets/img/logos/pieas_logo.jfif" height="40">
 
 
 - **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
