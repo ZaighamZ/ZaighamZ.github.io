@@ -8,6 +8,15 @@ layout: homepage
 
 I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
+### Work Experiences
+
+- **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
+- **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
+- **Visiting Researcher** ETH Zurich Switzerland. (Oct 2021 - Dec 2021)
+- **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
+- **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
+- **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
+
 I obtained my PhD degree in ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}  During my PhD, I was also affiliated with the Electronics and [Telecommunications Research Institute (ETRI)](www.etri.re.kr/){:target="_blank"}, as a part-time Student Researcher. I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
 
 During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
