@@ -59,6 +59,6 @@ I have been working on projects covering some of the advanced topics of machine 
 
 
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
