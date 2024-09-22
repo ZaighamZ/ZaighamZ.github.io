@@ -35,8 +35,9 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
-I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on in the past few years:
+I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on over the past few years:
 
+<img src="/assets/img/interests_zaigham.png" width="500">
 
 
 
