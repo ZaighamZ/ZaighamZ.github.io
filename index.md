@@ -59,10 +59,3 @@ I have been working on projects covering some of the advanced topics of machine 
 - **[2020]** 5 Papers accepted in CVPR, ECCV, and SPL. [(Link)](https://scholar.google.com/citations?hl=en&user=nFxWrXEAAAAJ&view_op=list_works/){:target="_blank"}
 
 
-
-
-
-{% include_relative _includes/publications.md %}
-
-<!--  {% include_relative _includes/services.md %}  -->  
-
