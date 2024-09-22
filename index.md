@@ -10,8 +10,8 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ### Work Experience
 <img src="/assets/img/logos/waseda_logo.png" width="50"> | 
-<img src="/assets/img/logos/ethz_logo.jfif" width="100"> |
-<img src="/assets/img/logos/etri_logo.gif" width="100">
+<img src="/assets/img/logos/ethz_logo.jfif" width="50"> |
+<img src="/assets/img/logos/etri_logo.gif" width="120">
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
 - **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
