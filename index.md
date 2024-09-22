@@ -28,8 +28,8 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <img src="/assets/img/logos/etri_logo.gif" width="100">
 
 
-- **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}
-- **Masters** ELectronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. Kim Jin Young.
+- **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
+- **Masters** ELectronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
 - **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
 - **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
 - **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
