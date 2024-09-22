@@ -6,32 +6,33 @@ layout: homepage
 ![](/assets/img/favicon.png)
 
 
-I am currently a Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates.
+I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
-### Work Experiences
+I obtained my PhD degree in ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}  During my PhD, I was also affiliated with the Electronics and [Telecommunications Research Institute (ETRI)] (www.etri.re.kr/){:target="_blank"}, as a part-time Student Researcher. I received my Masters degree from [Chonnam National University (CNU)] (www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
 
-- **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
-- **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
-- **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
-- **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
-- **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
+During my studies, I have also spent time with [ETH Zurich] (https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)] (https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
-I have been working as a Research Fellow at [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, UAE, since August 2022. Previously, I worked as a postdoctoral researcher at the Electronics and Telecommunications Research Institute from Feb 2022 to Jul 2022. Before this, I worked as a student researcher affiliated with the Intelligent Robots Research Section, Electronics and Telecommunications Research Institute (ETRI), South Korea, and as a Ph.D. candidate in CVML Lab, University of Science and Technology (UST), South Korea, advised by Prof. Seung-Ik Lee. 
-I received my Bachelor’s degree in Computer and Information Sciences from PIEAS in 2012 (advised by Dr. Faisal Zafar, co-advised by Dr. Javed Khurshid), and Master’s degree in Electronics and Computer Engineering from Chonnam National University, Korea (IC&DSP Lab; later renamed to Intelligent Electronics Lab, advised by Prof. Jin Young Kim).
+I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on in the past few years:
 
-## Research Interests
 
-- **Computer Vision:** Anomaly Detection, Action recognition.
-- **Machine Learning:** Signal and image processing, Applications in Renewable Energy.
+
 
 ## News
-- **[Feb. 2024]** Our paper titled "Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline" has been accepted for publication at CVPR 2024.
-- **[Oct. 2023]** "A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection" accepted in [WACV, 2024.](https://arxiv.org/abs/2310.17650){:target="_blank"}
-- **[April. 2023]** Graduated with a Master's degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/).
-- **[Jan. 2023]** Our paper on Digital Twins is published to IEEE Access.
-- **[Aug. 2021]** Started my masters degree in computer vision at MBZUAI. 
-- **[Oct. 2020]** Our paper on solar irradiance forecasting is accepted to MDPI journal.
-- **[May. 2020]** Graduated from King Saud University (KSU) where I ranked 1st among students in my major.
+- **[Sep. 2024]** Paper accepted for publication at ICDM 2024. 
+- **[Feb. 2024]** Two papers accepted for publication at CVPR 2024: 1) [Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline]( https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf) {:target="_blank"}. 2) [DIFFUSEMIX: Label-Preserving Data Augmentation with Diffusion Models]( https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf) {:target="_blank"}.
+- **[Oct. 2023]** Paper accepted for publication at WACV 2024: [A Coarse-to-Fine Pseudo-Labeling (C2FPL) Framework for Unsupervised Video Anomaly Detection] (https://arxiv.org/abs/2310.17650){:target="_blank"}.
+- **[May. 2023]** Paper accepted for publication at Neurocomputing Journal (IF: 5.5): [PseudoBound: Limiting the anomaly reconstruction capability of one-class classifiers using pseudo anomalies] (PseudoBound: Limiting the anomaly reconstruction capability of one-class classifiers using pseudo anomalies/){:target="_blank"}.
+- **[May. 2023]** Paper accepted for publication at IEEE Transactions on Neural Networks and Learning Systems (IF: 14.255): [Clustering Aided Weakly Supervised Training to Detect Anomalous Events in Surveillance Videos] (https://ieeexplore.ieee.org/document/10136845/){:target="_blank"}.
+- **[Sep. 2022]** Paper accepted for publication at IEEE Transactions on Image Processing (IF: 10.8): [Stabilizing adversarially learned one-class novelty detection using pseudo anomalies] (https://arxiv.org/pdf/2203.13716/){:target="_blank"}.
+- **[Aug. 2022]** Joined [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}. as a Postdoctoral Research Fellow. 
+- **[Feb. 2022]** Paper accepted for publication at CVPR 2022: Generative Cooperative Learning for Unsupervised Video Anomaly Detectionhttps://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf) {:target="_blank"}.
+- **[Jan. 2022]** Joined [ETRI](www.etri.re.kr) {:target="_blank"} as a Postdoctoral Researcher.
+- **[Jan. 2022]** Officially PhinisheD; Obtained PhD from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea. 
+- **[Jan. 2022]** Received the Outstanding Research Award from UST.
+- **[Oct. 2021]** Moved to Zurich to join [CVL] (https://vision.ee.ethz.ch/){:target="_blank"} in [ETH Zurich] (https://ethz.ch/){:target="_blank"} as a Visiting Researcher.
+- **[Dec. 2020]** Proposal accepted for a grant of 10 Million KRW by YSRP Program.
+- **[2020]** 5 Papers accepted in CVPR, ECCV, and SPL. [(Link]] (https://scholar.google.com/citations?hl=en&user=nFxWrXEAAAAJ&view_op=list_works/){:target="_blank"}
+
 
 
 {% include_relative _includes/publications.md %}
