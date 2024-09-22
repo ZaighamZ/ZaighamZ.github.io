@@ -40,7 +40,6 @@ I have been working on projects covering some of the advanced topics of machine 
 <img src="/assets/img/interests_zaigham.png" width="300">
 
 
-
 ## News
 - **[Sep. 2024]** Paper accepted for publication at ICDM 2024. 
 - **[Feb. 2024]** Two papers accepted for publication at CVPR 2024: 1) [Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf){:target="_blank"}. 2) [DIFFUSEMIX: Label-Preserving Data Augmentation with Diffusion Models]( https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf){:target="_blank"}.
@@ -59,6 +58,6 @@ I have been working on projects covering some of the advanced topics of machine 
 
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+<!--{% include_relative _includes/publications.md %}-->
 
-<!--{% include_relative _includes/services.md %} -->
+<!--{% include_relative _includes/services.md %}-->
