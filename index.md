@@ -9,8 +9,8 @@ layout: homepage
 I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
 ### Work Experiences
-<img src="/assets/img/logos/waseda_logo.png" width="50">
-<img src="/assets/img/logos/ethz_logo.jfif" width="50">
+<img src="/assets/img/logos/waseda_logo.png" width="50"> | 
+<img src="/assets/img/logos/ethz_logo.jfif" width="50"> |
 <img src="/assets/img/logos/etri_logo.gif" width="50">
 
 
