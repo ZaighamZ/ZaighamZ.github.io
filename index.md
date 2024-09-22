@@ -3,10 +3,6 @@ layout: homepage
 ---
 
 
-![](/assets/img/logos/waseda_logo.png | width=50)
-
-
-
 <img src="/assets/img/logos/waseda_logo.png" width="50">
 
 
