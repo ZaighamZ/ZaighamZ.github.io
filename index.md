@@ -20,7 +20,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 
 
-### Education
+## Education
 <img src="/assets/img/logos/ust_logo.jpg" width="50"> | 
 <img src="/assets/img/logos/Chonnam_uni_logo.gif" width="50"> |
 <img src="/assets/img/logos/pieas_logo.jfif" height="40">
@@ -62,7 +62,7 @@ I have been working on projects covering some of the advanced topics of machine 
 
 
 
-<!--{% include_relative _includes/publications.md %}
+<!---{% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}-->
+{% include_relative _includes/services.md %}--->
 
