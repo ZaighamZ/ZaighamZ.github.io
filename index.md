@@ -30,13 +30,10 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 - **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
 - **Masters** ELectronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
-- **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
-- **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
-- **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
+- **Undergraduate** Computer and Information Sciences from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
 
 
-
- I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
+<!-- I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012. -->
 
 During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
