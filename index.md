@@ -6,6 +6,11 @@ layout: homepage
 ![](/assets/img/logos/waseda_logo.png | width=50)
 
 
+
+<img src="/assets/img/logos/waseda_logo.png" width="300">
+
+
+
 I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
 ### Work Experiences
