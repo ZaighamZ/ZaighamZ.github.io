@@ -3,13 +3,14 @@ layout: homepage
 ---
 
 
-<img src="/assets/img/logos/waseda_logo.png" width="50">
 
 
 
 I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
 ### Work Experiences
+<img src="/assets/img/logos/waseda_logo.png" width="50">
+
 
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
