@@ -7,7 +7,7 @@ layout: homepage
 
 
 
-<img src="/assets/img/logos/waseda_logo.png" width="300">
+<img src="/assets/img/logos/waseda_logo.png" width="50">
 
 
 
