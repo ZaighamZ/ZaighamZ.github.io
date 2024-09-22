@@ -16,7 +16,6 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
-- **Visiting Researcher** ETH Zurich Switzerland. (Oct 2021 - Dec 2021)
 - **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
 - **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
 - **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
