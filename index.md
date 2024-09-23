@@ -10,7 +10,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 
 
-
+***
 ## Work Experience
 <p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="32"> | 
 <img src="/assets/img/logos/etri_logo.gif" height="22"> | 
