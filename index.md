@@ -9,9 +9,9 @@ layout: homepage
 I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.sprintai.org/){:target="_blank"} at [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, United Arab Emirates. 
 
 ## Work Experience
-<p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="30">|
-<img src="/assets/img/logos/etri_logo.gif" height="25">|
-<img src="/assets/img/logos/ethz_logo.jfif" height="30">|
+<p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="30"> | 
+<img src="/assets/img/logos/etri_logo.gif" height="25"> | 
+<img src="/assets/img/logos/ethz_logo.jfif" height="30"> | 
 <img src="/assets/img/logos/waseda_logo2.png" height="30"> </p>
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
@@ -22,9 +22,9 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 
 ## Education
-<img src="/assets/img/logos/ust_logo.jpg" width="50"> | 
+<p align="right"> <img src="/assets/img/logos/ust_logo.jpg" width="50"> | 
 <img src="/assets/img/logos/Chonnam_uni_logo.gif" width="50"> |
-<img src="/assets/img/logos/pieas_logo.jfif" height="40">
+<img src="/assets/img/logos/pieas_logo.jfif" height="40"> </p>
 
 
 - **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
