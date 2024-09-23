@@ -24,7 +24,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 
 
-
+***
 ## Education
 <p align="right"> <img src="/assets/img/logos/ust_logo.jpg" height="50"> | 
 <img src="/assets/img/logos/Chonnam_uni_logo.gif" height="53"> |
@@ -38,13 +38,15 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 
 
+***
 ## Other Experiences
 During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
 
 
 
-## Interests
+***
+## Research Interests
 I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on over the past few years:
 <p align="center">
 <img src="/assets/img/interests_zaigham.png" width="300">
@@ -53,6 +55,7 @@ I have been working on projects covering some of the advanced topics of machine 
 
 
 
+***
 ## News
 - **[Sep. 2024]** Paper accepted for publication at ICDM 2024. 
 - **[Feb. 2024]** Two papers accepted for publication at CVPR 2024: 1) [Collaborative Learning of Anomalies with Privacy (CLAP) for Unsupervised Video Anomaly Detection: A New Baseline](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf){:target="_blank"}. 2) [DIFFUSEMIX: Label-Preserving Data Augmentation with Diffusion Models]( https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf){:target="_blank"}.
