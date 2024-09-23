@@ -47,7 +47,7 @@ During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.h
 
 ***
 ## Research Interests
-I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on over the past few years:
+I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have focused on over the last few years:
 <p align="center">
 <img src="/assets/img/interests_zaigham.png" width="300">
 </p>
