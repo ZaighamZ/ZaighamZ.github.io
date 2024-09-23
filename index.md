@@ -34,8 +34,12 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 <!-- I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012. -->
 
+
+## Others
+
 During my studies, I have also spent time with [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher. During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from LG Electronics, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
+## Project Domains
 I have been working on projects covering some of the advanced topics of machine learning, computer vision, artificial intelligence, and robotics. The following diagram represents some of the major areas I have been working on over the past few years:
 
 <p align="center">
