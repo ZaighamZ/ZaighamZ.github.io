@@ -15,11 +15,11 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <p align="right"> <a href="https://mbzuai.ac.ae/" target="_blank"><img src="/assets/img/logos/mbzuai_logo.png" height="32" title="Mohamed bin Zayed University of Artificial Intelligence" alt="MBZUAI logo"></a> | 
 <a href="https://etri.re.kr/eng/main/main.etri" target="_blank"><img src="/assets/img/logos/etri_logo.gif" height="22" title="Electronics and Telecommunications Research Institute" alt="ETRI logo"></a> | 
 <a href="https://ethz.ch/en.html" target="_blank"><img src="/assets/img/logos/ethz_logo2.jfif" height="22" title="ETH Zurich" alt="ETH Zurich Logo"></a> </p>
-- **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
-- **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, South Korea. (Feb 2022 - Jul 2022)
-- **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
-- **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
-- **Student Researcher** ETRI, Daejeon, South Korea. (Mar 2018 - Jan 2022)
+- **Research Fellow** [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
+- **Postdoctoral Researcher** [Electronics and Telecommunications Research Institute (ETRI)](https://etri.re.kr/eng/main/main.etri){:target="_blank"}, Uslan Lab, South Korea. (Feb 2022 - Jul 2022)
+- **Visiting Researcher** [ETH Zurich, Switzerland](https://ethz.ch/en.html){:target="_blank"}. (Oct 2021 - Dec 2021)
+- **Internee** [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
+- **Student Researcher** [ETRI](https://etri.re.kr/eng/main/main.etri){:target="_blank"}, Daejeon, South Korea. (Mar 2018 - Jan 2022)
 
 
 
@@ -39,10 +39,10 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 ***
 ## Other Experiences
 <p align="right"> 
-<img src="/assets/img/logos/waseda_logo2.png" height="30"> | 
-<img src="/assets/img/logos/lg_logo.png" height="30"> | 
-<img src="/assets/img/logos/kiro_logooo.png" height="30"> | 
-<img src="/assets/img/logos/snu_logo.png" height="30"> </p>
+<a href="https://www.waseda.jp/top/en/" target="_blank"><img src="/assets/img/logos/waseda_logo2.png" height="30" alt="Waseda logo" title="Waseda University"></a> | 
+<a href="https://www.lge.co.kr/" target="_blank"><img src="/assets/img/logos/lg_logo.png" height="30" alt="LG logo" title="LG Electronics"></a> | 
+<a href="https://www.lge.co.kr/" target="_blank"><img src="/assets/img/logos/kiro_logooo.png" height="30" alt="KIRO logo" title="Korea Institute of Robotics & Technology Convergence"></a> | 
+<a href="https://en.snu.ac.kr/index.html" target="_blank"><img src="/assets/img/logos/snu_logo.png" height="30" alt="SNU logo" title="Seoul National University"></a> </p>
 During my Masters, I also worked at [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"} as an internee. 
 During my PhD, I worked on several interesting industrial projects in close collaboration with teams from [LG Electronics](https://www.lg.com/){:target="_blank"}, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
