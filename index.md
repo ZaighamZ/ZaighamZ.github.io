@@ -66,7 +66,7 @@ I have been working on projects covering some of the advanced topics of machine 
 - **[Oct. 2023]** Paper accepted for publication at WACV 2024. [[Link]](https://arxiv.org/abs/2310.17650){:target="_blank"}
 - **[May. 2023]** Paper accepted for publication at Neurocomputing Journal (IF: 5.5). [[Link]](https://arxiv.org/abs/2303.10704/){:target="_blank"}
 - **[May. 2023]** Paper accepted for publication at IEEE Transactions on Neural Networks and Learning Systems (IF: 14.255). [[Link]](https://ieeexplore.ieee.org/document/10136845/){:target="_blank"}
-- **[Sep. 2022]** Paper accepted for publication at IEEE Transactions on Image Processing (IF: 10.8). [[Link]](https://arxiv.org/pdf/2203.13716/){:target="_blank"}.
+- **[Sep. 2022]** Paper accepted for publication at IEEE Transactions on Image Processing (IF: 10.8). [[Link]](https://ieeexplore.ieee.org/abstract/document/9887825/){:target="_blank"}.
 - **[Aug. 2022]** Joined [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}. as a Postdoctoral Research Fellow. 
 - **[Feb. 2022]** Paper accepted for publication at CVPR 2022. [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf){:target="_blank"}.
 - **[Jan. 2022]** Joined [ETRI](https://www.etri.re.kr){:target="_blank"} as a Postdoctoral Researcher.
