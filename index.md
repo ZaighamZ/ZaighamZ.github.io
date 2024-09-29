@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ***
 ## Work Experience
-<p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="32"> | 
+<p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="32" title="MBZUAI" alt="MBZUAI logo"> | 
 <img src="/assets/img/logos/etri_logo.gif" height="22"> | 
 <img src="/assets/img/logos/ethz_logo2.jfif" height="22"> </p>
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
@@ -39,15 +39,14 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ***
 ## Other Experiences
-<p align="right"> <img src="/assets/img/logos/mbzuai_logo.png" height="32"> | 
-<img src="/assets/img/logos/ethz_logo2.jfif" height="22"> | 
+<p align="right"> 
 <img src="/assets/img/logos/waseda_logo2.png" height="30"> | 
 <img src="/assets/img/logos/lg_logo.png" height="30"> | 
 <img src="/assets/img/logos/kiro_logooo.png" height="30"> | 
 <img src="/assets/img/logos/snu_logo.png" height="30"> </p>
 
-<!-- During my studies, I have also worked at [ETH Zurich](https://ethz.ch/en.html/){:target="_blank"}, [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, and [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"}, as internee or visiting researcher.  -->
-During my PhD, I have worked on several interesting industrial projects in close collaboration with teams from [LG Electronics](https://www.lg.com/){:target="_blank"}, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
+During my Masters, I also worked at [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"} as an internee. 
+During my PhD, I worked on several interesting industrial projects in close collaboration with teams from [LG Electronics](https://www.lg.com/){:target="_blank"}, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
 
 
