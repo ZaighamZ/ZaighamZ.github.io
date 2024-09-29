@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ***
 ## Work Experience
-<p align="right"> <a href="https://mbzuai.ac.ae/"><img src="/assets/img/logos/mbzuai_logo.png" height="32" title="MBZUAI" alt="MBZUAI logo"> | 
+<p align="right"> <a href="https://mbzuai.ac.ae/"><img src="/assets/img/logos/mbzuai_logo.png" height="32" title="MBZUAI" alt="MBZUAI logo"></a> | 
 <img src="/assets/img/logos/etri_logo.gif" height="22"> | 
 <img src="/assets/img/logos/ethz_logo2.jfif" height="22"> </p>
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
