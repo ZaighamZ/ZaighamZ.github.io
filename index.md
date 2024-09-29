@@ -29,10 +29,10 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <a href="https://international.jnu.ac.kr/IndexMain.aspx"><img src="/assets/img/logos/Chonnam_uni_logo.gif" height="53" alt="Chonnam logo" title="Chonnam National University"></a> |
 <a href="https://www.pieas.edu.pk/"><img src="/assets/img/logos/pieas_logo2.jfif" height="50" alt="PIEAS logo" title="Pakistan Institute of Engineering and Applied Sciences"></a> </p>
 
-- **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
-- **Masters** Electronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
-- **Undergraduate** Computer and Information Sciences from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
-<!-- I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012. -->
+- **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](https://www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
+- **Masters** Electronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](https://www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
+- **Undergraduate** Computer and Information Sciences from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/){:target="_blank"}, in 2012.
+<!-- I received my Masters degree from [Chonnam National University (CNU)](https://www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](https://www.pieas.edu.pk/){:target="_blank"}, in 2012. -->
 
 
 
