@@ -17,10 +17,10 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <img src="/assets/img/logos/ethz_logo2.jfif" height="22"> | 
 <img src="/assets/img/logos/waseda_logo2.png" height="30"> </p>
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
-- **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, Korea. (Feb 2022 - Jul 2022)
+- **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, South Korea. (Feb 2022 - Jul 2022)
 - **Visiting Researcher** ETH Zurich, Switzerland. (Oct 2021 - Dec 2021)
 - **Internee** MBZUAI, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
-- **Student Researcher** ETRI, Daejeon, Korea. (Mar 2018 - Jan 2022)
+- **Student Researcher** ETRI, Daejeon, South Korea. (Mar 2018 - Jan 2022)
 
 
 
@@ -31,7 +31,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <img src="/assets/img/logos/pieas_logo2.jfif" height="50"> </p>
 
 - **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
-- **Masters** ELectronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
+- **Masters** Electronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
 - **Undergraduate** Computer and Information Sciences from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012.
 <!-- I received my Masters degree from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, and my undergraduate degree from [Pakistan Institute of Engineering and Applied Sciences (PIEAS)](www.pieas.edu.pk/){:target="_blank"}, in 2012. -->
 
@@ -66,7 +66,7 @@ I have been working on projects covering some of the advanced topics of machine 
 - **[Aug. 2022]** Joined [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}. as a Postdoctoral Research Fellow. 
 - **[Feb. 2022]** Paper accepted for publication at CVPR 2022. [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf){:target="_blank"}.
 - **[Jan. 2022]** Joined [ETRI](www.etri.re.kr){:target="_blank"} as a Postdoctoral Researcher.
-- **[Jan. 2022]** Officially PhinisheD; Obtained PhD from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea. 
+- **[Jan. 2022]** Obtained PhD from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea. 
 - **[Jan. 2022]** Received the Outstanding Research Award from UST.
 - **[Oct. 2021]** Moved to Zurich to join [CVL](https://vision.ee.ethz.ch/){:target="_blank"} in [ETH Zurich](https://ethz.ch/){:target="_blank"} as a Visiting Researcher.
 - **[Dec. 2020]** Proposal accepted for a grant of 10 Million KRW by YSRP Program.
