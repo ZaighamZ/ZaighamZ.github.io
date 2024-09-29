@@ -69,8 +69,8 @@ I have been working on projects covering some of the advanced topics of machine 
 - **[Sep. 2022]** Paper accepted for publication at IEEE Transactions on Image Processing (IF: 10.8). [[Link]](https://arxiv.org/pdf/2203.13716/){:target="_blank"}.
 - **[Aug. 2022]** Joined [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}. as a Postdoctoral Research Fellow. 
 - **[Feb. 2022]** Paper accepted for publication at CVPR 2022. [[Link]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zaheer_Generative_Cooperative_Learning_for_Unsupervised_Video_Anomaly_Detection_CVPR_2022_paper.pdf){:target="_blank"}.
-- **[Jan. 2022]** Joined [ETRI](www.etri.re.kr){:target="_blank"} as a Postdoctoral Researcher.
-- **[Jan. 2022]** Obtained PhD from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea. 
+- **[Jan. 2022]** Joined [ETRI](https://www.etri.re.kr){:target="_blank"} as a Postdoctoral Researcher.
+- **[Jan. 2022]** Obtained PhD from the [University of Science and Technology (UST)](https://www.ust.ac.kr/){:target="_blank"}, South Korea. 
 - **[Jan. 2022]** Received the Outstanding Research Award from UST.
 - **[Oct. 2021]** Moved to Zurich to join [CVL](https://vision.ee.ethz.ch/){:target="_blank"} in [ETH Zurich](https://ethz.ch/){:target="_blank"} as a Visiting Researcher.
 - **[Dec. 2020]** Proposal accepted for a grant of 10 Million KRW by YSRP Program.
