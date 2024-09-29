@@ -12,8 +12,8 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ***
 ## Work Experience
-<p align="right"> <a href="https://mbzuai.ac.ae/"><img src="/assets/img/logos/mbzuai_logo.png" height="32" title="MBZUAI" alt="MBZUAI logo"></a> | 
-<a href="https://etri.re.kr/eng/main/main.etri"><img src="/assets/img/logos/etri_logo.gif" height="22" title="ETRI" alt="ETRI logo"></a> | 
+<p align="right"> <a href="https://mbzuai.ac.ae/"><img src="/assets/img/logos/mbzuai_logo.png" height="32" title="Mohamed bin Zayed University of Artificial Intelligence" alt="MBZUAI logo"></a> | 
+<a href="https://etri.re.kr/eng/main/main.etri"><img src="/assets/img/logos/etri_logo.gif" height="22" title="Electronics and Telecommunications Research Institute" alt="ETRI logo"></a> | 
 <a href="https://ethz.ch/en.html"><img src="/assets/img/logos/ethz_logo2.jfif" height="22" title="ETH Zurich" alt="ETH Zurich Logo"></a> </p>
 - **Research Fellow** Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** Electronics and Telecommunications Research Institute (ETRI), Uslan Lab, South Korea. (Feb 2022 - Jul 2022)
@@ -25,9 +25,9 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 
 ***
 ## Education
-<p align="right"> <img src="/assets/img/logos/ust_logo.jpg" height="50"> | 
-<img src="/assets/img/logos/Chonnam_uni_logo.gif" height="53"> |
-<img src="/assets/img/logos/pieas_logo2.jfif" height="50"> </p>
+<p align="right"> <a href="https://ust.ac.kr/eng/"><img src="/assets/img/logos/ust_logo.jpg" height="50" alt="UST logo" title="University of Science and Technology"></a> | 
+<a href="https://international.jnu.ac.kr/IndexMain.aspx"><img src="/assets/img/logos/Chonnam_uni_logo.gif" height="53" alt="Chonnam logo" title="Chonnam National University"></a> |
+<a href="https://www.pieas.edu.pk/"><img src="/assets/img/logos/pieas_logo2.jfif" height="50" alt="PIEAS logo" title="Pakistan Institute of Engineering and Applied Sciences"></a> </p>
 
 - **PhD** ICT/Computer Software with specialization in Artificial Intelligence and Computer Vision from the [University of Science and Technology (UST)](www.ust.ac.kr/){:target="_blank"}, South Korea, in 2022, advised by Prof. [Seung-Ik Lee](https://sites.google.com/view/cvml-ust/professor?authuser=0/){:target="_blank"}.
 - **Masters** Electronics and Computer Engineering with specialization in Artificial Intelligence from [Chonnam National University (CNU)](www.jnu.ac.kr/){:target="_blank"}, South Korea, in 2017, advised by Prof. [Kim Jin Young](https://ee.jnu.ac.kr/ee/16634/subview.do?enc=Zm5jdDF8QEB8JTJGcHJvZiUyRmVlJTJGNDEyJTJGNDE1JTJGdmlldy5kbyUzRg%3D%3D){:target="_blank"}.
