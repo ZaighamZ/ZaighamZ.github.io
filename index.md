@@ -17,7 +17,7 @@ I am a Postdoctoral Research Fellow affiliated with [SPriNT-AI lab](https://www.
 <a href="https://ethz.ch/en.html" target="_blank"><img src="/assets/img/logos/ethz_logo2.jfif" height="22" title="ETH Zurich" alt="ETH Zurich Logo"></a> </p>
 - **Research Fellow** [Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)](https://mbzuai.ac.ae/){:target="_blank"}, Masdar City, Abu Dhabi, UAE. (Aug 2022 - now)
 - **Postdoctoral Researcher** [Electronics and Telecommunications Research Institute (ETRI)](https://etri.re.kr/eng/main/main.etri){:target="_blank"}, Uslan Lab, South Korea. (Feb 2022 - Jul 2022)
-- **Visiting Researcher** [ETH Zurich, Switzerland](https://ethz.ch/en.html){:target="_blank"}. (Oct 2021 - Dec 2021)
+- **Visiting Researcher** [ETH Zurich](https://ethz.ch/en.html){:target="_blank"}, Switzerland. (Oct 2021 - Dec 2021)
 - **Internee** [MBZUAI](https://mbzuai.ac.ae/){:target="_blank"}, Abu Dhabi. *Remote*  (Aug 2021 - Jan 2022)
 - **Student Researcher** [ETRI](https://etri.re.kr/eng/main/main.etri){:target="_blank"}, Daejeon, South Korea. (Mar 2018 - Jan 2022)
 
