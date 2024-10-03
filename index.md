@@ -74,6 +74,6 @@ I have been working on projects covering some of the advanced topics of machine 
 - **[Jan. 2022]** Received the Outstanding Research Award from UST.
 - **[Oct. 2021]** Moved to Zurich to join [CVL](https://vision.ee.ethz.ch/){:target="_blank"} in [ETH Zurich](https://ethz.ch/){:target="_blank"} as a Visiting Researcher.
 - **[Dec. 2020]** Proposal accepted for a grant of 10 Million KRW by YSRP Program.
-- **[2020]** 5 Papers accepted in CVPR, ECCV, and SPL. [[Link]](https://scholar.google.com/citations?hl=en&user=nFxWrXEAAAAJ&view_op=list_works/){:target="_blank"}
+- **[2020]** Five Papers accepted in CVPR, ECCV, and SPL. [[Link]](https://scholar.google.com/citations?hl=en&user=nFxWrXEAAAAJ&view_op=list_works/){:target="_blank"}
 
 
