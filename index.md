@@ -61,7 +61,7 @@ I have been working on projects covering some of the advanced topics of machine 
 
 ***
 ## News
--**[Oct. 2024]** Organizing FAME Challenge in ACM Multimedia Conference'24. [[Link]](https://mavceleb.github.io/dataset/index.html){:target="_blank"}
+- **[Oct. 2024]** Organizing FAME Challenge in ACM Multimedia Conference'24. [[Link]](https://mavceleb.github.io/dataset/index.html){:target="_blank"}
 - **[Sep. 2024]** Paper accepted for publication at ICDM 2024. 
 - **[Feb. 2024]** Two papers accepted for publication at CVPR 2024. [[Paper 1]](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf){:target="_blank"}, [[Paper 2]]( https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf){:target="_blank"}
 - **[Oct. 2023]** Paper accepted for publication at WACV 2024. [[Link]](https://arxiv.org/abs/2310.17650){:target="_blank"}
@@ -82,13 +82,13 @@ I have been working on projects covering some of the advanced topics of machine 
 
 ***
 ## Students
--Anas Emad Addeen Diab Al-lahham
--Irzam Liaqat
--Khawar Islam
--Sahan Hemachandra
--Mubarak Gwaza Abdu-Aguye
--Salem Saqer Majid Almarri
--Nurbek Tastan
--Tu Vu Ngoc
--Muhammad Saad Saeed
--Jinha Lee
+- Anas Emad Addeen Diab Al-lahham
+- Irzam Liaqat
+- Khawar Islam
+- Sahan Hemachandra
+- Mubarak Gwaza Abdu-Aguye
+- Salem Saqer Majid Almarri
+- Nurbek Tastan
+- Muhammad Saad Saeed
+- Tu Vu Ngoc
+- Jinha Lee
