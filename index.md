@@ -62,6 +62,8 @@ I have been working on projects covering some of the advanced topics of machine 
 ***
 ## Projects / Demos
 
+Due to limited time, I am unable to add all here. However, will peridically add more here soon. Nevertheless, if you have any specific questions about any of my projects or papers, please feel free to write an email.
+
 - Anomaly Detection Robot for Industrial Applications:
 <video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot" width="250">
 </video>
