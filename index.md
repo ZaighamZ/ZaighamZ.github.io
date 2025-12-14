@@ -76,8 +76,11 @@ Due to limited time, I am unable to add all here. However, will peridically add 
 
 ***
 ## News
+
+- **[Aug. 2024]** New Survey on Self-Supervised Learning Mechanisms for Vision Transformers. [[Link]](https://arxiv.org/pdf/2408.17059){:target="_blank"}
 - **[Oct. 2024]** Organizing FAME Challenge in ACM Multimedia Conference'24. [[Link]](https://mavceleb.github.io/dataset/index.html){:target="_blank"}
-- **[Sep. 2024]** Paper accepted for publication at ICDM 2024. 
+- **[Sep. 2024]** Paper accepted for publication at ICDM 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10884211/){:target="_blank"}
+- **[Aug. 2024]** New Survey on Self-Supervised Learning Mechanisms for Vision Transformers. [[Link]](https://arxiv.org/pdf/2408.17059){:target="_blank"}
 - **[Feb. 2024]** Two papers accepted for publication at CVPR 2024. [[Paper 1]](https://openaccess.thecvf.com/content/CVPR2024/papers/Al-lahham_Collaborative_Learning_of_Anomalies_with_Privacy_CLAP_for_Unsupervised_Video_CVPR_2024_paper.pdf){:target="_blank"}, [[Paper 2]]( https://openaccess.thecvf.com/content/CVPR2024/papers/Islam_DiffuseMix_Label-Preserving_Data_Augmentation_with_Diffusion_Models_CVPR_2024_paper.pdf){:target="_blank"}
 - **[Oct. 2023]** Paper accepted for publication at WACV 2024. [[Link]](https://arxiv.org/abs/2310.17650){:target="_blank"}
 - **[May. 2023]** Paper accepted for publication at Neurocomputing Journal (IF: 5.5). [[Link]](https://arxiv.org/abs/2303.10704/){:target="_blank"}
