@@ -77,7 +77,10 @@ Due to limited time, I am unable to add all here. However, will peridically add 
 ***
 ## News
 
-- **[Aug. 2024]** New Survey on Self-Supervised Learning Mechanisms for Vision Transformers. [[Link]](https://arxiv.org/pdf/2408.17059){:target="_blank"}
+- **[Sep. 2025]** Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Demidov_Vocabulary-free_Fine-grained_Visual_Recognition_via_Enriched_Contextually_Grounded_Vision-Language_Model_ICCVW_2025_paper.pdf){:target="_blank"}
+- **[Jun. 2025]** FusedVision: A Knowledge-Infusing Approach for Practical Anomaly Detection in Real-world Surveillance Videos @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Dawoud_FusedVision_A_Knowledge-Infusing_Approach_for_Practical_Anomaly_Detection_in_Real-world_CVPRW_2025_paper.pdf){:target="_blank"}
+- **[Jun. 2025]** ARDGen: Augmentation Regularization for Domain-Generalized Medical Report Generation @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Ahsan_ARDGen_Augmentation_Regularization_for_Domain-Generalized_Medical_Report_Generation_CVPRW_2025_paper.pdf){:target="_blank"}
+- **[Jun. 2025]** How good is my histopathology vision-language foundation model? A holistic benchmark. [[Link]](https://arxiv.org/pdf/2503.12990){:target="_blank"}
 - **[Oct. 2024]** Organizing FAME Challenge in ACM Multimedia Conference'24. [[Link]](https://mavceleb.github.io/dataset/index.html){:target="_blank"}
 - **[Sep. 2024]** Paper accepted for publication at ICDM 2024. [[Link]](https://ieeexplore.ieee.org/abstract/document/10884211/){:target="_blank"}
 - **[Aug. 2024]** New Survey on Self-Supervised Learning Mechanisms for Vision Transformers. [[Link]](https://arxiv.org/pdf/2408.17059){:target="_blank"}
