@@ -62,7 +62,7 @@ I have been working on projects covering some of the advanced topics of machine 
 ***
 ## Some Project Demos
 
-<video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot">
+<video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot" width="500">
 </video>
 
 
