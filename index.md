@@ -60,10 +60,13 @@ I have been working on projects covering some of the advanced topics of machine 
 
 
 ***
-## Some Cool Project Demos
+## Projects / Demos
 
 <video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot" width="200">
 </video>
+
+[![ALT_TEXT](https://img.youtube.com/vi/8TKkPePFpiE/0.jpg)](https://www.youtube.com/watch?v=8TKkPePFpiE&rco=1)
+
 
 
 ***
