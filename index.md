@@ -69,6 +69,7 @@ Due to limited time, I am unable to add all here. However, will peridically add 
 </video>
 
 - Surveillance Vidoes Analysis for Weakly-Supervised Anomalous Event Localization (External Youtube Link):
+  
 <a href="https://www.youtube.com/watch?v=8TKkPePFpiE&rco=1" target="_blank">
   <img src="https://img.youtube.com/vi/8TKkPePFpiE/0.jpg" 
        alt="ALT_TEXT"
