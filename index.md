@@ -76,8 +76,12 @@ Due to limited time, I am unable to add all here. However, will peridically add 
 
 ***
 ## News
-
-- **[Sep. 2025]** Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Demidov_Vocabulary-free_Fine-grained_Visual_Recognition_via_Enriched_Contextually_Grounded_Vision-Language_Model_ICCVW_2025_paper.pdf){:target="_blank"}
+- **[Nov. 2025]** A new survey on 'Multimodal Learning Under Imperfect Data Conditions' is now available online.  [[Link]](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176410566.65375877){:target="_blank"}
+- **[Nov. 2025]** RobustA: A new benchmark and method for Robust Anomaly Detection in Multimodal Anomaly Detection Data . [[Link]](https://arxiv.org/pdf/2511.07276){:target="_blank"}
+- **[Sep. 2025]** Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model @ ICCV workshops. [[Link]](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Demidov_Vocabulary-free_Fine-grained_Visual_Recognition_via_Enriched_Contextually_Grounded_Vision-Language_Model_ICCVW_2025_paper.pdf){:target="_blank"}
+- **[Aug. 2025]** SPARTA: Spectral Prompt Agnostic Adversarial Attack on Medical Vision-Language Models. [[Link]](https://openreview.net/pdf?id=AZQrFsNe7m){:target="_blank"}
+- **[Jul. 2025]** A new survey on AI in Agriculture covering Deep Learning Techniques for Crops, Fisheries and Livestock. [[Link]](https://arxiv.org/pdf/2507.22101){:target="_blank"}
+- **[Jun. 2025]** Chameleon: A Multimodal Learning Framework Robust to Missing Modalities -> Accepted for publication in the International Journal of Multimedia Information Retrieval. [[Link]](https://link.springer.com/article/10.1007/s13735-025-00370-y){:target="_blank"}
 - **[Jun. 2025]** FusedVision: A Knowledge-Infusing Approach for Practical Anomaly Detection in Real-world Surveillance Videos @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/CVPR2025W/VAND/papers/Dawoud_FusedVision_A_Knowledge-Infusing_Approach_for_Practical_Anomaly_Detection_in_Real-world_CVPRW_2025_paper.pdf){:target="_blank"}
 - **[Jun. 2025]** ARDGen: Augmentation Regularization for Domain-Generalized Medical Report Generation @ CVPR workshops. [[Link]](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Ahsan_ARDGen_Augmentation_Regularization_for_Domain-Generalized_Medical_Report_Generation_CVPRW_2025_paper.pdf){:target="_blank"}
 - **[Jun. 2025]** How good is my histopathology vision-language foundation model? A holistic benchmark. [[Link]](https://arxiv.org/pdf/2503.12990){:target="_blank"}
