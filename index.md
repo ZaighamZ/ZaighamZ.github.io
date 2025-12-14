@@ -76,7 +76,7 @@ Due to limited time, I am unable to add all here. However, will peridically add 
        width="250">
 
 ***
-## News
+## News & Publications
 - **[Nov. 2025]** A new survey on 'Multimodal Learning Under Imperfect Data Conditions' is now available online.  [[Link]](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.176410566.65375877){:target="_blank"}
 - **[Nov. 2025]** RobustA: A new benchmark and method for Robust Anomaly Detection in Multimodal Anomaly Detection Data . [[Link]](https://arxiv.org/pdf/2511.07276){:target="_blank"}
 - **[Sep. 2025]** Vocabulary-free Fine-grained Visual Recognition via Enriched Contextually Grounded Vision-Language Model @ ICCV workshops. [[Link]](https://openaccess.thecvf.com/content/ICCV2025W/MMFM/papers/Demidov_Vocabulary-free_Fine-grained_Visual_Recognition_via_Enriched_Contextually_Grounded_Vision-Language_Model_ICCVW_2025_paper.pdf){:target="_blank"}
