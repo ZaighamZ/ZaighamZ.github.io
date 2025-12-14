@@ -66,7 +66,7 @@ I have been working on projects covering some of the advanced topics of machine 
 <video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot" width="250">
 </video>
 
-
+- Surveillance Vidoes Analysis for Weakly-Supervised Anomalous Event Localization (External Youtube Link):
 <a href="https://www.youtube.com/watch?v=8TKkPePFpiE&rco=1" target="_blank">
   <img src="https://img.youtube.com/vi/8TKkPePFpiE/0.jpg" 
        alt="ALT_TEXT"
