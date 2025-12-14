@@ -44,7 +44,7 @@ I am a Research Scientist at [Mohamed bin Zayed University of Artificial Intelli
 <a href="https://www.lge.co.kr/" target="_blank"><img src="/assets/img/logos/lg_logo.png" height="30" alt="LG logo" title="LG Electronics"></a> | 
 <a href="https://www.lge.co.kr/" target="_blank"><img src="/assets/img/logos/kiro_logooo.png" height="30" alt="KIRO logo" title="Korea Institute of Robotics & Technology Convergence"></a> | 
 <a href="https://en.snu.ac.kr/index.html" target="_blank"><img src="/assets/img/logos/snu_logo.png" height="30" alt="SNU logo" title="Seoul National University"></a> </p>
-During my Masters, I also worked at [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"} as an internee. 
+During my Masters, I also worked at [Waseda University](https://www.waseda.jp/top/en/){:target="_blank"} as an intern. 
 During my PhD, I worked on several interesting industrial projects in close collaboration with teams from [LG Electronics](https://www.lg.com/){:target="_blank"}, [Korea Institute of Robotics & Technology Convergence (KIRO)](https://www.kiro.re.kr/eng/default.asp/){:target="_blank"}, and [Seoul National University (SNU)]( https://en.snu.ac.kr/index.html){:target="_blank"}
 
 
@@ -62,6 +62,7 @@ I have been working on projects covering some of the advanced topics of machine 
 ***
 ## Projects / Demos
 
+- Anomaly Detection Robot for Industrial Applications:
 <video src="/assets/files/robot.mp4" controls title="Anomaly Detection Robot" width="200">
 </video>
 
